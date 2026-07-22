@@ -70,15 +70,15 @@ housing-price-analysis/
 
 # Repository Structure
 housing-price-analysis/
-│
+
 ├── README.md
 ├── notebooks/
-│ └── housing-price-analysis.ipynb
+ └── housing-price-analysis.ipynb
 ├── images/
-│ ├── price_distribution.png
-│ ├── scatter-price-per-size.png
-│ ├── mean-house-price-by-state.png
-│ └── correlation-heatmap.png
+ ├── price_distribution.png
+ ├── scatter-price-per-size.png
+ ├── mean-house-price-by-state.png
+ └── correlation-heatmap.png
 
 # Future Improvements
 - Build predictive machine learning models.
