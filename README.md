@@ -75,17 +75,17 @@ housing-price-analysis/
 
 ├── notebooks/
 
- └── housing-price-analysis.ipynb
+   └── housing-price-analysis.ipynb
  
 ├── images/
 
- ├── price_distribution.png
+   ├── price_distribution.png
  
- ├── scatter-price-per-size.png
+   ├── scatter-price-per-size.png
  
- ├── mean-house-price-by-state.png
+   ├── mean-house-price-by-state.png
  
- └── correlation-heatmap.png
+   └── correlation-heatmap.png
 
 # Future Improvements
 - Build predictive machine learning models.
