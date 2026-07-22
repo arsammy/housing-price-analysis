@@ -72,12 +72,19 @@ housing-price-analysis/
 housing-price-analysis/
 
 ├── README.md
+
 ├── notebooks/
+
  └── housing-price-analysis.ipynb
+ 
 ├── images/
+
  ├── price_distribution.png
+ 
  ├── scatter-price-per-size.png
+ 
  ├── mean-house-price-by-state.png
+ 
  └── correlation-heatmap.png
 
 # Future Improvements
