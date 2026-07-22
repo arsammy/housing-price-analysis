@@ -53,19 +53,19 @@ housing-price-analysis/
 
 # Visualization
 - Distribution of housing price
-  ![Price Distribution](images/price_distribution.png)
+  ![Price Distribution](Images/price_distribution.png)
   Most homes fall within a moderate price range, while a smaller number of luxury homes create a right-skewed distribution.
 
 - Relationship Between House Size and Price
-  ![Size vs Price](images/scatter_size_per_size.png)
+  ![Size vs Price](Images/scatter_size_per_size.png)
   The scatter plot shows a positive relationship between property size and selling price, indicating that larger homes generally command higher prices.
 
 - Top States by Mean Housing Price
-  ![Top States](images/mean-house-price-by-state.png)
+  ![Top States](Images/mean-house-price-by-state.png)
   Comparing states highlights geographic differences in housing markets and helps identify regions with consistently higher property values.
 
 - Correlation Heatmap
-  ![Correlation Heatmap](images/correlation_heatmap.png)
+  ![Correlation Heatmap](Images/correlation_heatmap.png)
   The heatmap summarizes relationships among numerical variables and identifies which features are most strongly associated with housing prices.
 
 
