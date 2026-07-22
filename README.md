@@ -68,12 +68,20 @@ housing-price-analysis/
   ![Correlation Heatmap](Images/correlation-heatmap.png)
   The heatmap summarizes relationships among numerical variables and identifies which features are most strongly associated with housing prices.
 
+# Repository Structure
+housing-price-analysis/
+│
+├── README.md
+├── notebooks/
+│ └── housing-price-analysis.ipynb
+├── images/
+│ ├── price_distribution.png
+│ ├── scatter-price-per-size.png
+│ ├── mean-house-price-by-state.png
+│ └── correlation-heatmap.png
 
-
-# Next Steps
-- Perform exploratory data analysis
-- Compute correlation matrices
-- Build regression models
-- Investigate Simpson's Paradox
-- Summarize findings
-- Develop business recommendations
+# Future Improvements
+- Build predictive machine learning models.
+- Evaluate additional housing market variables.
+- Compare regional housing trends over time.
+- Develop an interactive dashboard.
